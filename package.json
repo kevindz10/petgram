@@ -1,0 +1,28 @@
+{
+  "name": "petgram",
+  "version": "1.0.0",
+  "description": "curso de platzy de react avanzado",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev" :"webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindz10/petgram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevindz10/petgram/issues"
+  },
+  "homepage": "https://github.com/kevindz10/petgram#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2"
+  }
+}
